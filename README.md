@@ -1,6 +1,7 @@
 ## Hi 👋, I'm Anurag Batra
+(A **BCA Graduate** from Delhi, **India 🇮🇳**.)
 
-### A passionate Developer Working towards living a Dream Life.
+### A passionate Developer Working towards living a Dream Life 🔥:
 
 - 💬 Ask me about <b>Python, ML, Neural Networks, Cloud And IOT</b>
 
@@ -8,14 +9,17 @@
 
 - 👯  Looking to collaborate on open-source projects.
 
-- 💫  Open to work on new ideas.
+- 📖 Learn more About me and My Projects **<a href='https://developedbyanurag.github.io/'>here</a>**
 
-  <a href="https://www.linkedin.com/in/anuragbatra1999"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/its.anurag.batra/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+
+### Let's Connect!
+  <a href="https://twitter.com/AnuragBatra1999"><img src="https://img.shields.io/twitter/follow/anuragbatra1999?style=social&logoColor=white" /></a>
+  <a href="https://www.instagram.com/its.anurag.batra/"><img src="https://img.shields.io/badge/Mail-orange" /></a>
+  - **<a href='mailto:AnuragBatra1999@gmail.com'>Email Me</a>**
 
 #### 📊 Some Github Stats
 
-![Anurag most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevelopedByAnurag&theme=vue) ![Himanshu github stats](https://github-readme-stats.wasabeef.vercel.app/api?username=DevelopedByAnurag&show_icons=true&line_height=21&show_icons=true&theme=vue)
+![Anurag most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevelopedByAnurag&theme=vue) ![Anurag github stats](https://github-readme-stats.wasabeef.vercel.app/api?username=DevelopedByAnurag&show_icons=true&line_height=21&show_icons=true&theme=vue)
 
 
 ##### Visitor counts
