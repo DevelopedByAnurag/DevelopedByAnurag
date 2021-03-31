@@ -3,7 +3,7 @@
 
 ### A passionate Developer Working towards living a Dream Life 🔥:
 
-- 💬 Ask me about <b>Python, ML, Neural Networks, Cloud And IOT</b>
+- 💬 Ask me about <b>🐍 Python, ML, Neural Networks, Flask, Cloud And IOT</b>
 
 - 🌱  Currently I’m A scholar at SAP and a passinate Blogger.
 
