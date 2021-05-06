@@ -14,8 +14,7 @@
 
 ### Let's Connect!
   <a href="https://twitter.com/AnuragBatra1999"><img src="https://img.shields.io/twitter/follow/anuragbatra1999?style=social&logoColor=white" /></a>
-  <a href="https://www.instagram.com/its.anurag.batra/"><img src="https://img.shields.io/badge/Mail-orange" /></a>
-  - **<a href='mailto:AnuragBatra1999@gmail.com'>Email Me</a>**
+  <a href="mailto:AnuragBatra1999@gmail.com"><img src="https://img.shields.io/badge/Mail-orange" /></a>
 
 #### 📊 Some Github Stats
 
