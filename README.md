@@ -18,7 +18,7 @@
 
 #### 📊 Some Github Stats
 
-![Anurag most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevelopedByAnurag&theme=nightowl) ![Anurag github stats](https://github-readme-stats.wasabeef.vercel.app/api?username=DevelopedByAnurag&show_icons=true&line_height=21&show_icons=true&theme=nightowl)
+![Anurag most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevelopedByAnurag&theme=nightowl) ![Anurag github stats](https://github-readme-stats.vercel.app/api?username=DevelopedByAnurag&show_icons=true&line_height=21&show_icons=true&theme=nightowl)
 
 
 ##### Visitor counts
