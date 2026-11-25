@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Anurag Batra — Agentic AI Engineer</title>
+  <desc id="desc">A custom dark indigo banner with an animated agent orchestration graph and focus line for Anurag Batra.</desc>
+  <defs>
+    <linearGradient id="base" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#09090B"/><stop offset=".58" stop-color="#111114"/><stop offset="1" stop-color="#171827"/></linearGradient>
+    <radialGradient id="glow" cx="82%" cy="50%" r="55%"><stop stop-color="#6366F1" stop-opacity=".23"/><stop offset="1" stop-color="#6366F1" stop-opacity="0"/></radialGradient>
+    <linearGradient id="wire" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#818CF8" stop-opacity=".15"/><stop offset=".5" stop-color="#A5B4FC" stop-opacity=".82"/><stop offset="1" stop-color="#818CF8" stop-opacity=".18"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#C7D2FE" stroke-opacity=".055"/><circle cx="0" cy="0" r="1.2" fill="#A5B4FC" fill-opacity=".2"/></pattern>
+    <filter id="glowFx" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="6" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <clipPath id="round"><rect width="1200" height="300" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#round)">
+    <rect width="1200" height="300" fill="url(#base)"/><rect width="1200" height="300" fill="url(#glow)"/><rect width="1200" height="300" fill="url(#grid)"/>
+    <g transform="translate(52 40)"><circle r="4" fill="#F87171"/><circle cx="16" r="4" fill="#FBBF24"/><circle cx="32" r="4" fill="#818CF8"/><text x="50" y="4" fill="#71717A" font-family="monospace" font-size="10" letter-spacing="1.4">PROFILE / ANURAG_BATRA</text></g>
+
+    <!-- Agent graph: packets travel from retrieval and tools through the runtime. -->
+    <g fill="none" stroke="url(#wire)" stroke-width="1.4">
+      <path d="M793 133H904M963 133H1084M933 104V72M933 162V198M904 133L858 90M963 133L1010 90M904 133L858 177M963 133L1010 177"/>
+      <path d="M858 90H812M1010 90H1055M858 177H812M1010 177H1055" stroke-dasharray="3 5"/>
+    </g>
+    <g fill="#111114" stroke="#4F46E5" stroke-width="1.2">
+      <rect x="904" y="104" width="59" height="58" rx="13" fill="#17182A" stroke="#A5B4FC"/>
+      <rect x="835" y="67" width="46" height="38" rx="9"/><rect x="987" y="67" width="46" height="38" rx="9"/>
+      <rect x="835" y="158" width="46" height="38" rx="9"/><rect x="987" y="158" width="46" height="38" rx="9"/>
+      <circle cx="793" cy="133" r="6" fill="#818CF8" stroke="none"/><circle cx="1084" cy="133" r="6" fill="#A5B4FC" stroke="none"/>
+      <circle cx="933" cy="72" r="5" fill="#818CF8" stroke="none"/><circle cx="933" cy="198" r="5" fill="#818CF8" stroke="none"/>
+    </g>
+    <g fill="#C7D2FE" font-family="monospace" font-size="8" text-anchor="middle" letter-spacing=".6">
+      <text x="933" y="128">AGENT</text><text x="933" y="141">CORE</text>
+      <text x="858" y="90">RAG</text><text x="1010" y="90">TOOLS</text><text x="858" y="181">STATE</text><text x="1010" y="181">EVAL</text>
+    </g>
+    <circle cx="933" cy="133" r="36" fill="none" stroke="#818CF8" stroke-opacity=".2" filter="url(#glowFx)"/>
+    <circle r="3" fill="#C7D2FE" filter="url(#glowFx)"><animateMotion dur="3.8s" repeatCount="indefinite" path="M858 90L904 133H963L1010 90"/><animate attributeName="opacity" values=".15;1;.15" dur="3.8s" repeatCount="indefinite"/></circle>
+    <circle r="2.5" fill="#818CF8"><animateMotion dur="4.6s" begin="1s" repeatCount="indefinite" path="M858 177L904 133H963L1010 177"/></circle>
+
+    <text x="52" y="124" fill="#FAFAFA" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700" letter-spacing="-2.8">Anurag Batra</text>
+    <rect x="55" y="145" width="4" height="25" rx="2" fill="#818CF8"/>
+    <text x="72" y="163" fill="#C7D2FE" font-family="monospace" font-size="14" letter-spacing="1.5">AGENTIC AI ENGINEER <tspan fill="#71717A">/</tspan> OKTA</text>
+
+    <!-- Focus messages rotate in place; height is fixed so the banner never jumps. -->
+    <g font-family="monospace" font-size="11" letter-spacing=".9">
+      <text x="55" y="212" fill="#818CF8">&gt;</text>
+      <text x="73" y="212" fill="#A1A1AA" opacity="0">MULTI-AGENT SYSTEMS · LLM PLATFORMS · MCP TOOLING<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.46;.52;1" dur="9s" repeatCount="indefinite"/></text>
+      <text x="73" y="212" fill="#A1A1AA" opacity="0">PYTHON · GO · LANGGRAPH · RAG · COMPUTER VISION<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;.46;.52;.94;1" dur="9s" repeatCount="indefinite"/></text>
+      <rect x="73" y="201" width="2" height="15" rx="1" fill="#818CF8"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+    </g>
+    <path d="M52 247H1148" stroke="#A5B4FC" stroke-opacity=".14"/>
+    <text x="55" y="270" fill="#63617A" font-family="monospace" font-size="9" letter-spacing="1.1">ORCHESTRATION · RETRIEVAL · SAFE TOOLING · PRODUCTION SYSTEMS</text>
+    <text x="1148" y="270" text-anchor="end" fill="#818CF8" font-family="monospace" font-size="9" letter-spacing="1">SYS/01 — ONLINE</text>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="94" viewBox="0 0 1000 94" role="img" aria-labelledby="title desc">
+  <title id="title">Agent workflow trace</title>
+  <desc id="desc">A request flows through retrieval, semantic routing, tool execution, and evaluation.</desc>
+  <defs><linearGradient id="bg" x2="0" y2="1"><stop stop-color="#111114"/><stop offset="1" stop-color="#0b0b0f"/></linearGradient><linearGradient id="wire" x2="1"><stop stop-color="#4F46E5" stop-opacity=".3"/><stop offset=".5" stop-color="#A5B4FC"/><stop offset="1" stop-color="#4F46E5" stop-opacity=".3"/></linearGradient></defs>
+  <rect x="1" y="1" width="998" height="92" rx="12" fill="url(#bg)" stroke="#A5B4FC" stroke-opacity=".17"/>
+  <text x="20" y="22" fill="#71717A" font-family="monospace" font-size="9" letter-spacing="1.2">TRACE / REQUEST LIFECYCLE</text>
+  <path d="M94 56H907" stroke="url(#wire)" stroke-width="1.5"/>
+  <g fill="#111114" stroke="#6366F1" stroke-width="1.2">
+    <rect x="46" y="42" width="96" height="29" rx="7"/><rect x="233" y="42" width="112" height="29" rx="7"/><rect x="422" y="42" width="128" height="29" rx="7"/><rect x="628" y="42" width="102" height="29" rx="7"/><rect x="827" y="42" width="112" height="29" rx="7"/>
+  </g>
+  <g fill="#C7D2FE" font-family="monospace" font-size="9" text-anchor="middle" letter-spacing=".3">
+    <text x="94" y="60">REQUEST</text><text x="289" y="60">RETRIEVE</text><text x="486" y="60">ROUTE / SKILL</text><text x="679" y="60">TOOLS</text><text x="883" y="60">EVALUATE</text>
+  </g>
+  <circle r="3.5" fill="#A5B4FC"><animateMotion dur="6s" repeatCount="indefinite" path="M94 56H907"/><animate attributeName="opacity" values=".2;1;.2" dur="1.5s" repeatCount="indefinite"/></circle>
+  <circle r="2" fill="#818CF8"><animateMotion dur="6s" begin="2s" repeatCount="indefinite" path="M94 56H907"/></circle>
+</svg>
